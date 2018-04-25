@@ -1,7 +1,8 @@
 
-**EJEMPLO DE DISPOSITIVOS DE ALMACENAMIENTO**
+![](https://images.cooltext.com/5136784.png)
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_button.gif" width="88" height="31" alt="Cool Text: Logo and Graphics Generator" /></a>
 
-Memoria RAM: Acrónimo de Random Access Memory (Memoria de Acceso Aleatorio), es el campo de almacenamiento empleado como medio de trabajo en los sistemas computacionales, pues contiene todas las instrucciones del procesador y la mayor parte de las instrucciones del software. Al apagar o reiniciar el sistema, se borra la totalidad de su contenido.
+MemoriMa RAM: Acrónimo de Random Access Memory (Memoria de Acceso Aleatorio), es el campo de almacenamiento empleado como medio de trabajo en los sistemas computacionales, pues contiene todas las instrucciones del procesador y la mayor parte de las instrucciones del software. Al apagar o reiniciar el sistema, se borra la totalidad de su contenido.
 
 ![](https://www.comeros.com.ar/wp-content/uploads/2018/03/27652-ADATA-AD4U2400316G17-S-1.jpg)
 
