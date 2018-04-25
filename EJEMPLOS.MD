@@ -20,3 +20,4 @@ Memoria RAM: Acrónimo de Random Access Memory (Memoria de Acceso Aleatorio), es
  Disqueteras de 3½ (obsoleto): Evolución de la unidad de discos flexibles, estas unidades empleaban disquetes más rígidos y duraderos, con mayor capacidad (1,44 MB).
 
 ![](https://i.ytimg.com/vi/8bO3o7kNnH0/hqdefault.jpg)
+
