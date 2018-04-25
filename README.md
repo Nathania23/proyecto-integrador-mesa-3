@@ -7,6 +7,15 @@
 
 Un dispositivo de almacenamiento de datos es un conjunto de componentes utilizados para leer o grabar datos en el soporte de almacenamiento de datos, en forma temporal o permanente. La unidad de disco junto con los discos que graba, conforma un dispositivo de almacenamiento o unidad de almacenamiento (device drive).
 
+# EQUIPO:
+ LEGORRETA CARRASCO KASSANDRA
+ AQUINO VAZQUEZ KAREN
+ LAZCANO HIGUERA LIZBETH
+ SUAREZ SERNA NATHANIA
+ 
+ # GRUPO:
+ - 410
+
 ![](http://hardware-luigi.galeon.com/imagenes/as.jpg)
 
 [HISTORIA](https://amolospandashermosos.github.io/proyecto-integrador-mesa-3/HISTORIA)
