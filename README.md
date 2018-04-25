@@ -11,8 +11,7 @@ Un dispositivo de almacenamiento de datos es un conjunto de componentes utilizad
 
 [HISTORIA](https://amolospandashermosos.github.io/proyecto-integrador-mesa-3/HISTORIA)
 
-[LINEA](https://amolospandashermosos.github.io/proyecto-integrador-mesa-3/LINEA DEL TIEMPO)
-
+[LINEA DEL TIEMPO](
 
 
 
