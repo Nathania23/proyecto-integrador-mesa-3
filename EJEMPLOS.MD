@@ -21,3 +21,14 @@ Memoria RAM: Acrónimo de Random Access Memory (Memoria de Acceso Aleatorio), es
 
 ![](https://i.ytimg.com/vi/8bO3o7kNnH0/hqdefault.jpg)
 
+# Ejemplos
+
+> UNIDAD DE CINTA MAGNÉTICA
+> DISQUETE
+> DISCO DURO
+> UNIDAD DE CD-ROM
+> UNIDAD DE DVD
+> MEMORIA FLASS
+> USB
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO-Ges_J3cb6n2yXjg2aoQo_swMX7JaIW_Tf0Hk3lsC4BaF_fy)
