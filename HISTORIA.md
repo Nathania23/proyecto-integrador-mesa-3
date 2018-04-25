@@ -4,6 +4,8 @@
 
 ![](https://images.cooltext.com/5136764.png)
 
+## ¿Como fue su desarrollo?
+
 Se desarrolló por primera vez en 1959 por el ingeniero Jack S. Kilby justo meses después de haber sido contratado por la firma Texas Instruments. Se trataba de un dispositivo de germanio que integraba seis transistores en una misma base semiconductora para formar un oscilador de rotación de fase. En el año 2000, Kilby obtuvo el Premio Nobel de Física por la contribución de su invento al desarrollo de la tecnología.
 
 Un dispositivo de almacenamiento computacional es un dispositivo que es capaz de almacenar datos o cualquier tipo de información. Históricamente se ha usado el papel como método más común, pero actualmente es posible almacenar digitalmente en un disco compacto por ejemplo, los datos que cabrían en miles de carpetas archivadas. A lo largo de la historia se ha buscado el camino al conocimiento y sus consecuencias de encontrar el sistema más pequeño físicamente y con más capacidad para almacenar más datos y tratarlos rápidamente.
